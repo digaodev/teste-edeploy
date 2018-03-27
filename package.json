@@ -1,0 +1,16 @@
+{
+  "name": "teste-edeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "p1": "node p1.js",
+    "p2": "node p2.js",
+    "p3": "node p3.js",
+    "p4": "node p4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
